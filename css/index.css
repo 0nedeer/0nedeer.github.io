@@ -4804,14 +4804,14 @@ mjx-assistive-mml {
 }
 @media screen and (max-width: 800px) {
   #web_bg {
-    background: var(--mobileday-bg) !important;
+    background: url(https://pic.0nedeer.cc/img/ae428a29c62deea9c7836f955a31894.jpg) !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
   }
   [data-theme="dark"] #web_bg {
-    background: var(--mobilenight-bg) !important;
+    background: url(https://pic.0nedeer.cc/img/ffc647de2dacaa79b91fafeeacee29a.jpg) !important;
     background-attachment: local !important;
     background-position: center !important;
     background-size: cover !important;
